@@ -16,10 +16,10 @@
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/latest/download/latest.zip",
-    "TestingAssemblyVersion": "0.2.0.1",
+    "TestingAssemblyVersion": "0.2.0.2",
     "TestingDalamudApiLevel": 15,
     "TestingChangelog": "Adds a small hide / settings / help button strip pinned to the corner the list grows away from. Clicking requires Ctrl by default so the buttons cannot be hit by accident next to a player box. Hiding the list can optionally leave the strip behind, turning the first button into a show and hide toggle.",
-    "DownloadLinkTesting": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/download/v0.2.0.1-test2/latest.zip"
+    "DownloadLinkTesting": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/download/v0.2.0.2-test3/latest.zip"
   }
 ]
 
