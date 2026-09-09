@@ -18,10 +18,10 @@
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/latest/download/latest.zip",
-    "TestingAssemblyVersion": "0.4.1.3",
+    "TestingAssemblyVersion": "0.4.2.0",
     "TestingDalamudApiLevel": 15,
     "TestingChangelog": "Per-zone and per-job visibility rules under a new Visibility tab. The list is now always disabled in PvP.",
-    "DownloadLinkTesting": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/download/v0.4.1.3-test9/latest.zip"
+    "DownloadLinkTesting": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/download/v0.4.2.0-test10/latest.zip"
   }
 ]
 
