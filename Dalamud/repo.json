@@ -3,7 +3,7 @@
     "Author": "joshua88wa",
     "Name": "Nearby Player List",
     "InternalName": "NearbyPlayerList",
-    "AssemblyVersion": "0.3.0.0",
+    "AssemblyVersion": "0.3.1.3",
     "Punchline": "A clickable list of nearby targetable players.",
     "Description": "Shows a compact, clickable list of player characters you can actually target, so you can heal or raise people in The Hunt, Diadem, Eureka, Bozja and the Occult Crescent without fighting the mouse.",
     "ApplicableVersion": "any",
@@ -15,11 +15,7 @@
     "AcceptsFeedback": true,
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/latest/download/latest.zip",
-    "TestingAssemblyVersion": "0.3.1.3",
-    "TestingDalamudApiLevel": 15,
-    "TestingChangelog": "Settings hints moved onto (?) markers next to each control. Code comment cleanup. No behaviour changes.",
-    "DownloadLinkTesting": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/download/v0.3.1.3-test4/latest.zip"
+    "DownloadLinkUpdate": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/latest/download/latest.zip"
   }
 ]
 
