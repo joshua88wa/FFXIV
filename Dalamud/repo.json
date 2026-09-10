@@ -17,7 +17,11 @@
     "FeedbackMessage": "Please report bugs and suggestions on the issue tracker at https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/issues so they can be tracked and replied to.",
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/latest/download/latest.zip"
+    "DownloadLinkUpdate": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/latest/download/latest.zip",
+    "TestingAssemblyVersion": "0.5.0.0",
+    "TestingDalamudApiLevel": 15,
+    "TestingChangelog": "First pass at raising from the list: Alt and left click a dead player to Swiftcast and raise. Off by default.",
+    "DownloadLinkTesting": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/download/v0.5.0.0-test1/latest.zip"
   }
 ]
 
