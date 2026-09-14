@@ -10,3 +10,4 @@ Setup instructions and the custom plugin repository are in [Dalamud](Dalamud/).
 | Project | Description |
 | --- | --- |
 | [Nearby Player List](https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList) | A clickable list of nearby targetable players, for healing and raising in Field Operations. |
+| [Plugin Menu](https://github.com/joshua88wa/FFXIV-Dalamud-PluginMenu) | A floating button that opens a searchable list of your installed plugins, with their windows and settings one click away. |

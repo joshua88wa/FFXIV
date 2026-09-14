@@ -18,6 +18,26 @@
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/latest/download/latest.zip"
+  },
+  {
+    "Author": "joshua88wa",
+    "Name": "Plugin Menu",
+    "InternalName": "PluginMenu",
+    "AssemblyVersion": "0.1.0.0",
+    "Punchline": "A one click menu for your installed plugins.",
+    "Description": "Adds a small floating button that opens a searchable, scrollable list of every installed and enabled plugin, each with its Open and Settings windows one click away. Plugins can be hidden from the list and brought back later.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "RepoUrl": "https://github.com/joshua88wa/FFXIV-Dalamud-PluginMenu",
+    "ImageUrls": [ "https://raw.githubusercontent.com/joshua88wa/FFXIV-Dalamud-PluginMenu/main/images/preview.png" ],
+    "IconUrl": "https://raw.githubusercontent.com/joshua88wa/FFXIV-Dalamud-PluginMenu/main/images/icon.png",
+    "Tags": [ "plugins", "menu", "launcher", "utility", "quality of life" ],
+    "CategoryTags": [ "utility" ],
+    "AcceptsFeedback": true,
+    "FeedbackMessage": "Please report bugs and suggestions on the issue tracker at https://github.com/joshua88wa/FFXIV-Dalamud-PluginMenu/issues so they can be tracked and replied to.",
+    "LoadPriority": 0,
+    "DownloadLinkInstall": "https://github.com/joshua88wa/FFXIV-Dalamud-PluginMenu/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/joshua88wa/FFXIV-Dalamud-PluginMenu/releases/latest/download/latest.zip"
   }
 ]
 
