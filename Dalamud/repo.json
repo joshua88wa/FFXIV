@@ -17,7 +17,11 @@
     "FeedbackMessage": "Please report bugs and suggestions on the issue tracker at https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/issues so they can be tracked and replied to.",
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/latest/download/latest.zip"
+    "DownloadLinkUpdate": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/latest/download/latest.zip",
+    "TestingAssemblyVersion": "0.5.2.1",
+    "TestingDalamudApiLevel": 15,
+    "TestingChangelog": "Fixes the list moving while locked: holding Shift suspended re-pinning even when the list could not be dragged.",
+    "DownloadLinkTesting": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/download/v0.5.2.1-test1/latest.zip"
   },
   {
     "Author": "joshua88wa",
