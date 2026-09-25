@@ -18,10 +18,10 @@
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/latest/download/latest.zip",
-    "TestingAssemblyVersion": "0.5.3.2",
+    "TestingAssemblyVersion": "0.5.3.3",
     "TestingDalamudApiLevel": 15,
-    "TestingChangelog": "Role sorting now keeps each job together, in the game's job order, with limited jobs, crafters and gatherers in their own groups after dps. Also includes the Debug tab from 0.5.3.0.",
-    "DownloadLinkTesting": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/download/v0.5.3.2-test3/latest.zip"
+    "TestingChangelog": "Each dead-player HP bar label now has its own colour, set in the Other tab. Raised defaults to dark grey and Being raised to amber, so only the players who still need a raise stand out. Also includes the job-order sorting and the Debug tab.",
+    "DownloadLinkTesting": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/download/v0.5.3.3-test4/latest.zip"
   },
   {
     "Author": "joshua88wa",
