@@ -3,7 +3,7 @@
     "Author": "joshua88wa",
     "Name": "Nearby Player List",
     "InternalName": "NearbyPlayerList",
-    "AssemblyVersion": "0.5.2.1",
+    "AssemblyVersion": "0.5.3.3",
     "Punchline": "A clickable list of nearby targetable players.",
     "Description": "Shows a compact, clickable list of player characters you can actually target, so you can heal or raise people in The Hunt, Diadem, Eureka, Bozja and the Occult Crescent without fighting the mouse.",
     "ApplicableVersion": "any",
@@ -18,10 +18,7 @@
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/latest/download/latest.zip",
-    "TestingAssemblyVersion": "0.5.3.3",
-    "TestingDalamudApiLevel": 15,
-    "TestingChangelog": "Each dead-player HP bar label now has its own colour, set in the Other tab. Raised defaults to dark grey and Being raised to amber, so only the players who still need a raise stand out. Also includes the job-order sorting and the Debug tab.",
-    "DownloadLinkTesting": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/download/v0.5.3.3-test4/latest.zip"
+    "Changelog": "Role sorting now keeps each job together in the game's own job order, with limited jobs, crafters and gatherers in their own groups after dps. Each label on a dead player's HP bar has its own color: Raised defaults to dark gray and Being raised to amber, so only the players who still need something stand out. Adds a Debug tab with the diagnostics and an optional sound when someone joins the list."
   },
   {
     "Author": "joshua88wa",
