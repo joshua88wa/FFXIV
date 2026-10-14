@@ -39,6 +39,27 @@
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/joshua88wa/FFXIV-Dalamud-PluginMenu/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/joshua88wa/FFXIV-Dalamud-PluginMenu/releases/latest/download/latest.zip"
+  },
+  {
+    "Author": "joshua88wa",
+    "Name": "Blue Mage Set Builder",
+    "InternalName": "BlueMageSetBuilder",
+    "AssemblyVersion": "0.1.0.0",
+    "Punchline": "Builds the best Blue Mage spell set from the spells you have learned.",
+    "Description": "Reads which Blue Mage spells you have learned and builds a 24-spell active set for the content you pick: solo and FATE leveling, dungeons, trials and raids, tanking or healing. Shows why each spell made the cut, lists the spells worth learning next and where to get them, and applies the set with one click when you are out of combat.",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "RepoUrl": "https://github.com/joshua88wa/FFXIV-Dalamud-BlueMageSetBuilder",
+    "ImageUrls": [ "https://raw.githubusercontent.com/joshua88wa/FFXIV-Dalamud-BlueMageSetBuilder/main/images/preview.png" ],
+    "IconUrl": "https://raw.githubusercontent.com/joshua88wa/FFXIV-Dalamud-BlueMageSetBuilder/main/images/icon.png",
+    "Tags": [ "blue mage", "blu", "spells", "spellbook", "active set", "loadout", "quality of life" ],
+    "CategoryTags": [ "jobs", "utility" ],
+    "AcceptsFeedback": true,
+    "FeedbackMessage": "Please report bugs and suggestions on the issue tracker at https://github.com/joshua88wa/FFXIV-Dalamud-BlueMageSetBuilder/issues so they can be tracked and replied to.",
+    "LoadPriority": 0,
+    "DownloadLinkInstall": "https://github.com/joshua88wa/FFXIV-Dalamud-BlueMageSetBuilder/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/joshua88wa/FFXIV-Dalamud-BlueMageSetBuilder/releases/latest/download/latest.zip",
+    "Changelog": "First release."
   }
 ]
 

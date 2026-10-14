@@ -23,6 +23,7 @@ If nothing shows up, press the refresh icon at the top left of the plugin instal
 | --- | --- | --- |
 | Nearby Player List | [FFXIV-Dalamud-NearbyPlayerList](https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList) | [Issue tracker](https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/issues) |
 | Plugin Menu | [FFXIV-Dalamud-PluginMenu](https://github.com/joshua88wa/FFXIV-Dalamud-PluginMenu) | [Issue tracker](https://github.com/joshua88wa/FFXIV-Dalamud-PluginMenu/issues) |
+| Blue Mage Set Builder | [FFXIV-Dalamud-BlueMageSetBuilder](https://github.com/joshua88wa/FFXIV-Dalamud-BlueMageSetBuilder) | [Issue tracker](https://github.com/joshua88wa/FFXIV-Dalamud-BlueMageSetBuilder/issues) |
 
 ## Support
 

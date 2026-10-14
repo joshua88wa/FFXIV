@@ -11,3 +11,4 @@ Setup instructions and the custom plugin repository are in [Dalamud](Dalamud/).
 | --- | --- |
 | [Nearby Player List](https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList) | A clickable list of nearby targetable players, for healing and raising in Field Operations. |
 | [Plugin Menu](https://github.com/joshua88wa/FFXIV-Dalamud-PluginMenu) | A floating button that opens a searchable list of your installed plugins, with their windows and settings one click away. |
+| [Blue Mage Set Builder](https://github.com/joshua88wa/FFXIV-Dalamud-BlueMageSetBuilder) | Builds the best 24-spell Blue Mage active set from the spells you have learned, for the content you pick, and applies it in one click. |
