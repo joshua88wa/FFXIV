@@ -38,7 +38,11 @@
     "FeedbackMessage": "Please report bugs and suggestions on the issue tracker at https://github.com/joshua88wa/FFXIV-Dalamud-PluginMenu/issues so they can be tracked and replied to.",
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/joshua88wa/FFXIV-Dalamud-PluginMenu/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/joshua88wa/FFXIV-Dalamud-PluginMenu/releases/latest/download/latest.zip",     "TestingAssemblyVersion": "0.1.1.1",     "TestingDalamudApiLevel": 15,     "TestingChangelog": "Sizes the menu against Dalamud's global UI scale, so the list fills its popup and reaches its configured height when that scale is not 1.0.",     "DownloadLinkTesting": "https://github.com/joshua88wa/FFXIV-Dalamud-PluginMenu/releases/download/v0.1.1.1-test1/latest.zip"
+    "DownloadLinkUpdate": "https://github.com/joshua88wa/FFXIV-Dalamud-PluginMenu/releases/latest/download/latest.zip",
+    "TestingAssemblyVersion": "0.1.1.2",
+    "TestingDalamudApiLevel": 15,
+    "TestingChangelog": "Shows a live preview of the menu while you adjust its size, and adds Center the button plus /pmenu center for when it ends up off screen. Includes the UI scale fix, so the list fills its popup and reaches its configured height when that scale is not 1.0.",
+    "DownloadLinkTesting": "https://github.com/joshua88wa/FFXIV-Dalamud-PluginMenu/releases/download/v0.1.1.2-test2/latest.zip"
   },
   {
     "Author": "joshua88wa",
