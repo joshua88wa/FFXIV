@@ -18,7 +18,7 @@
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/latest/download/latest.zip",
-    "Changelog": "The list no longer re-sorts while the mouse is over it, so a click lands on the player you aimed at rather than whoever was sorted into that slot. Only positions are pinned: HP bars and raise labels keep updating. A player who leaves holds an empty slot until you move off. On by default, in the Other tab, with a 200 ms hold after the pointer leaves.",
+    "Changelog": "The list no longer re-sorts while the mouse is over it, so a click lands on the player you aimed at rather than whoever was sorted into that slot. Only positions are pinned: HP bars and raise labels keep updating. A player who leaves holds an empty slot until you move off. On by default, in the Other tab, with a 200 ms hold after the pointer leaves."
   },
   {
     "Author": "joshua88wa",
