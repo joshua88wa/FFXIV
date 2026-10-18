@@ -60,7 +60,11 @@
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/joshua88wa/FFXIV-Dalamud-BlueMageSetBuilder/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/joshua88wa/FFXIV-Dalamud-BlueMageSetBuilder/releases/latest/download/latest.zip",
-    "Changelog": "First release."
+    "Changelog": "First release.",
+    "TestingAssemblyVersion": "0.1.0.1",
+    "TestingDalamudApiLevel": 15,
+    "DownloadLinkTesting": "https://github.com/joshua88wa/FFXIV-Dalamud-BlueMageSetBuilder/releases/download/v0.1.0.1-test1/latest.zip",
+    "TestingChangelog": "Sets can be applied on any job, as the game allows. On another job the window shows the game\u0027s reminder that hotbar changes are only saved on Blue Mage. Masked Carnivale: a set for every stage, built around the spells Blue Academy (mage.blue) lists as required or recommended, with each act\u0027s enemies and what they are vulnerable to, a link to Blue Academy\u0027s guide for the stage, and Previous and Next buttons for working through the stages in order. A line above the set names any spells it needs that you have not learned, with a button that jumps to where to learn them. New layout: a sidebar with Layouts, Spellbook, Settings, Changelog and About pages. Layouts has a tab for each kind of content, and a Role picker (Tank, Healer, DPS) for dungeons and trials and raids. Each tab remembers what you last picked. Opens beside the Blue Magic Spellbook and moves with it, starting as a slim bar that expands with a click. Choose the side, or turn it off, in Settings. Spellbook page: filters for rank and for learned or not learned, and where to learn each spell now wraps instead of being cut off. About page with the commands, credits, and a button that copies debug information for bug reports. Profiles.json: picks are written as \"Spell\" (files using the old \"Any\" still load), and every pick names its spells in a comment. Place names start with a capital letter: \"The Dragon\u0027s Neck\", not \"the Dragon\u0027s Neck\"."
   }
 ]
 
