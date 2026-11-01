@@ -3,7 +3,7 @@
     "Author": "joshua88wa",
     "Name": "Nearby Player List",
     "InternalName": "NearbyPlayerList",
-    "AssemblyVersion": "0.5.4.1",
+    "AssemblyVersion": "0.5.5.0",
     "Punchline": "A clickable list of nearby targetable players.",
     "Description": "Shows a compact, clickable list of player characters you can actually target, so you can heal or raise people in The Hunt, Diadem, Eureka, Bozja and the Occult Crescent without fighting the mouse.",
     "ApplicableVersion": "any",
@@ -18,7 +18,7 @@
     "LoadPriority": 0,
     "DownloadLinkInstall": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/releases/latest/download/latest.zip",
-    "Changelog": "Hotfix. With the list pinned to a right-hand or bottom corner, at a scale whose window size did not land on whole pixels, the list drifted away from its corner about a pixel per frame and walked off across the screen. Holding Shift stopped it and a top-left corner never did it. The plugin now keeps the corner it worked out itself instead of reading it back from the window each frame, and window sizes are rounded to whole pixels."
+    "Changelog": "The Gold Saucer now counts as a city instead of falling into Everything else, so it follows your Cities and inns rule. This covers the squares and the minigames alike: Leap of Faith, Air Force One, Mahjong, Triple Triad, Blunderville and Keybound Brawler. The settings row is renamed to Cities, inns and the Gold Saucer."
   },
   {
     "Author": "joshua88wa",
